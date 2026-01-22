@@ -13,8 +13,8 @@ every packet marked, every flow traced.
 edges hold. layers breathe.
 
 perennial by design.
-``
+```
 bellistek · bellistech · bellicists · unheaded
-``
+```
 
 ℌ𝔢𝔯𝔢 𝔴𝔢 𝔞𝔯𝔢.
